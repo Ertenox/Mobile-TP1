@@ -1,0 +1,4 @@
+#Mon Apr 01 23:25:33 CEST 2024
+base.0=C\:\\Users\\Gogz\\OneDrive\\Documents\\IMT\\1er annee\\Mobile\\tp1_auguste_mendy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
