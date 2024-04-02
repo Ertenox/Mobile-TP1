@@ -1,4 +1,4 @@
-Pour réaliser ce programme, j’ai utilisé Android Studio, un environnement de développement intégré (IDE). Avec Android Studio, j'ai utilisé le framework Flutter, développé par Google, pour créer des applications mobiles natives pour Android, IOS ainsi que d’autre support.
+Pour réaliser ce programme, j’ai utilisé Android Studio, un environnement de développement intégré (IDE). Avec Android Studio, j'ai utilisé le framework Flutter, développé par Google, pour créer des applications mobiles natives pour Android, IOS ainsi que d’autre support. Dans mon cas, l'application a été développer depuis une machine windows 11 et executé sur un téléphone virtuel android (Pixel 8 pro API 33)
 
 L’application développer est un convertisseur d’unité de mesure permettant de passer d’unité impérial à métrique et inversement.
 
